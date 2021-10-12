@@ -46,6 +46,7 @@
     "write-good": "write-good $(glob 'content/**/*.md')"
   },
   "dependencies": {
+    "@pasdo501/gatsby-source-woocommerce": "^0.14.3",
     "babel-plugin-styled-components": "^1.13.2",
     "gatsby": "^3.14.2",
     "gatsby-plugin-styled-components": "^4.14.0",
