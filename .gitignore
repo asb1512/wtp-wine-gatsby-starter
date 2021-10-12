@@ -80,3 +80,5 @@ coverage-ts/
 cypress/screenshots
 cypress/videos
 
+# Internal Notes
+notes.md
